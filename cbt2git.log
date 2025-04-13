@@ -1,0 +1,6 @@
+2025-04-14 00:06:08.800413 - Received CBT.V508.FILE917.PDS from FILE917.XMI 
+2025-04-14 00:06:08.801133 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE917.PDS, moved to PDS/$$$#DATE
+2025-04-14 00:06:08.801236 - Found @FILE917.txt (text/plain) in CBT.V508.FILE917.PDS, moved to PDS/@FILE917
+2025-04-14 00:06:08.801437 - Found @SELECT.docx (application/vnd.openxmlformats-officedocument.wordprocessingml.document) in CBT.V508.FILE917.PDS, moved to docs/@SELECT.docx
+2025-04-14 00:06:08.801970 - Found SELECTI#.pdf (application/pdf) in CBT.V508.FILE917.PDS, moved to docs/SELECTI#.pdf
+2025-04-14 00:06:08.802403 - Found SELECTIT.jcl (text/plain) in CBT.V508.FILE917.PDS, moved to PDS/SELECTIT
